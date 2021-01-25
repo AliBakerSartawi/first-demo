@@ -1,5 +1,8 @@
 # first-demo
 
-## learning markdown
+## Learning Markdown
 
-### test
+*this is nice*
+
+**this is bold**
+
